@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.11.1",
+    "@types/node": "^10.1.4",
+    "express": "^4.16.3",
+    "typescript": "^2.8.3"
+  },
+  "dependencies": {
+    "ws": "^5.2.0"
+  }
+}
